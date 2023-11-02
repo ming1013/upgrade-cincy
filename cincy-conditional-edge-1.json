@@ -5,15 +5,15 @@
       "payload": "registry.ci.openshift.org/ocp/release@sha256:f0fbac5877e6d0671177fa0f523deb195e8742a5d49bc377b18704ba252a14d0"
     },
     {
-      "version": "4.15.0-0.nightly-2023-10-17-000000",
+      "version": "4.13.1",
       "payload": "registry.ci.openshift.org/ocp/release@sha256:66c753e8b75d172f2a3f7ba13363383a76ecbc7ecdc00f3a423bef4ea8560405"
     },
     {
-      "version": "4.15.0-0.nightly-2023-10-19-222222",
+      "version": "4.13.2",
       "payload": "registry.ci.openshift.org/ocp/release@sha256:e385a786f122c6c0e8848ecb9901f510676438f17af8a5c4c206807a9bc0bf28"
     },
     {
-      "version": "4.15.0-0.nightly-2023-10-20-222222",
+      "version": "4.13.3",
       "payload": "registry.ci.openshift.org/ocp/release@sha256:caf073ce29232978c331d421c06ca5c2736ce5461962775fdd760b05fb2496a0"
     },
     {
