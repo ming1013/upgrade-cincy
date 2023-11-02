@@ -9,16 +9,16 @@
       "payload": "registry.ci.openshift.org/ocp/release@sha256:66c753e8b75d172f2a3f7ba13363383a76ecbc7ecdc00f3a423bef4ea8560405"
     },
     {
-      "version": "4.13.18",
-      "payload": "registry.ci.openshift.org/ocp/release@sha256:d0fd9d3ab8690605f816c879d74f4e6d6d9f72982f63a3e0ef3e027ecc512e1c"
-    },
-    {
       "version": "4.15.0-0.nightly-2023-10-19-222222",
       "payload": "registry.ci.openshift.org/ocp/release@sha256:e385a786f122c6c0e8848ecb9901f510676438f17af8a5c4c206807a9bc0bf28"
     },
     {
       "version": "4.15.0-0.nightly-2023-10-20-222222",
       "payload": "registry.ci.openshift.org/ocp/release@sha256:caf073ce29232978c331d421c06ca5c2736ce5461962775fdd760b05fb2496a0"
+    },
+    {
+      "version": "4.13.18",
+      "payload": "registry.ci.openshift.org/ocp/release@sha256:d0fd9d3ab8690605f816c879d74f4e6d6d9f72982f63a3e0ef3e027ecc512e1c"
     }
   ],
   "edges": [
