@@ -9,7 +9,7 @@
       "payload": "registry.ci.openshift.org/ocp/release@sha256:66c753e8b75d172f2a3f7ba13363383a76ecbc7ecdc00f3a423bef4ea8560405"
     },
     {
-      "version": "4.15.0-0.nightly-2023-10-18-111111",
+      "version": "4.13.16",
       "payload": "registry.ci.openshift.org/ocp/release@sha256:a5cd1b44e5b25b8a617d92a1f947297f56fc9bad104c117a8e452f932e1e2fd0"
     },
     {
