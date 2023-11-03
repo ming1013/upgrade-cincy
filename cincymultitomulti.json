@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {
+      "version": "4.11.53-multi",
+      "payload": "quay.io/openshift-release-dev/ocp-release:4.11.53-multi",
+      "metadata": {
+	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b"
+      }
+    },
+    {
+      "version": "4.12.0-0.nightly-multi-2023-11-03-024209",
+      "payload": "quay.io/openshift-release-dev/ocp-release-nightly@sha256:99cd0160cb16ead04ec3dafd5dd305425f88e5bb13c6a92139490a75ac90f2cf",
+      "metadata": {
+	"io.openshift.upgrades.graph.release.channels": "channel-a,channel-b"
+      }
+    }
+  ],
+  "edges": [
+    [0,1]
+  ]
+}
